@@ -1,6 +1,6 @@
 var money = 0;
 
-function moneyButton() {
+function moneyButton(){
   money = money + 1;
-  document.getElementById('money').innerHTML = money;
-}
+  document.getElementById("money").innerHTML = money;
+};
